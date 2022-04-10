@@ -1,0 +1,5 @@
+SRC += muse.c
+RGB_MATRIX_ENABLE = no
+AUDIO_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+ORYX_ENABLE = yes

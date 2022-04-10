@@ -1,0 +1,15 @@
+#pragma once
+
+// #define ORYX_CONFIGURATOR
+#define TAPPING_TOGGLE 1
+#define TAPPING_TERM 200
+// #define MOUSEKEY_INTERVAL           20
+// #define MOUSEKEY_DELAY              0
+// #define MOUSEKEY_TIME_TO_MAX        60
+// #define MOUSEKEY_MAX_SPEED          7
+// #define MOUSEKEY_WHEEL_DELAY        400
+// #define MOUSEKEY_WHEEL_INTERVAL     MOUSEKEY_INTERVAL
+// #define MOUSEKEY_WHEEL_MAX_SPEED    MOUSEKEY_MAX_SPEED
+// #define MOUSEKEY_WHEEL_TIME_TO_MAX  MOUSEKEY_TIME_TO_MAX
+// #define FIRMWARE_VERSION u8"bddag/ag30b"
+#define LAYER_STATE_8BIT
